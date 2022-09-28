@@ -15,8 +15,8 @@ public class ConnectionHelper {
     public Connection connectionClass() {
         ip = "ngknn.ru";
         database = "TestForSQL";
-        uName = "МамшеваЮС";
-        password = "1504wyvat2101";
+        uName = "41П";
+        password = "123456";
         port = "1433";
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
